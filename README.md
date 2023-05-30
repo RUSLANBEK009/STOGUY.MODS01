@@ -1,2 +1,2 @@
-# STOGUY.MODS01
-SALOM MEN RUSLANBEK
+# website-tutorial
+-------------------------------------------
